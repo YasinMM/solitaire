@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/solitaire/static/css/main.e6c13ad2.css",
+    "main.js": "/solitaire/static/js/main.81d56eff.js",
+    "static/js/787.4a17cf5c.chunk.js": "/solitaire/static/js/787.4a17cf5c.chunk.js",
+    "index.html": "/solitaire/index.html",
+    "main.e6c13ad2.css.map": "/solitaire/static/css/main.e6c13ad2.css.map",
+    "main.81d56eff.js.map": "/solitaire/static/js/main.81d56eff.js.map",
+    "787.4a17cf5c.chunk.js.map": "/solitaire/static/js/787.4a17cf5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.81d56eff.js"
+  ]
+}
